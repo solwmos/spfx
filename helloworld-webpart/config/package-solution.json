@@ -3,7 +3,7 @@
   "solution": {
     "name": "helloworld-webpart-client-side-solution",
     "id": "1ffacd8f-901c-4b68-a578-399c4b7dee5a",
-    "version": "1.0.0.0",
+    "version": "1.0.0.2",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
